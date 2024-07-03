@@ -6,11 +6,7 @@ Various mods, half-baked guides and EQ presets.
 you have to install LFS first using `git lfs install` before cloning.  
 Check [this guide](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)  for more info
 
-## Balanced Cable Mod
-
-<img src="images/cable.png" width="400"/>
-
-## Headphone Mods
+## Mods
 
 - **THX Panda** - [Balanced Mod](THX%20Panda/THX%20Panda.md)  
   <img src="THX Panda/original.jpg" height="400"/>  

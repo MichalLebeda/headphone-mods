@@ -1,8 +1,5 @@
 # THX - Panda
 
-## Connection
-![](../images/cable.png)
-
 ## Photos
 Screw located under foam  
 <img alt="Screw locaiton" src="01_screw_location.jpg" width="400"/>  
